@@ -1,4 +1,4 @@
-### Hi! I'm Mian Rashid :wave:
+# Hi! I'm Mian Rashid :wave:
 
 :cloud:Developer with a passion for Cloud technology and Infrastructure as Code</br>
 :computer:Studied IT and Informationssystems at the University of South-East Norway</br>
